@@ -1,6 +1,6 @@
 variable "instance_name" {
     description = "Name of the instance to be created"
-    default     = "awsbuilder-demo"
+    default     = "awsbuilder-demoss"
 }
 
 variable "instance_type" {
